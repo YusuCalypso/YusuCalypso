@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm One</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Yusu</h1>
 <h3 align="center"></h3>
 
 <h3 align="center">I am a beginner in web development and I do design, I make videos on youtube about video games 🥖</h3>
@@ -24,4 +24,4 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anexi97400](https://github.com/anexi97400)
 
-- <strong>I'm AWS Certified with AWS Certified Developer – Associate </strong>
+- <strong>I'm Certified Developer</strong>
