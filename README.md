@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 I'm Yusu</h1>
 <h3 align="center">A passionate JavaScript developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusu&label=Profile%20views&color=0e75b6&style=flat" alt="yusu" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusu" alt="yusu" /></a> </p>
 
 - I’m currently working on **Calypo**
