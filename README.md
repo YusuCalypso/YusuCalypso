@@ -15,10 +15,10 @@
 
 
 <p align="left">
-<a href="https://github.com/anexi97400" target="blank"><img src="https://media.discordapp.net/attachments/939268477762543656/941766106962599936/20220115_085606.png" alt="anexi97400" /></a>
+<a href="https://github.com/anexi97400" target="blank"><img src="" alt="anexi97400" /></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+<img align="right" src="https://media.discordapp.net/attachments/939268477762543656/941766106962599936/20220115_085606.png">
 
 - 🔭 I’m currently working on [Calypso](https://twitter.com/One_974)
 
