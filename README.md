@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Red Panda</h1>
+<h1 align="center">Hi 👋 I'm Yusu</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusucalypso" alt="yusucalypso" /></a> </p>
 
