@@ -17,7 +17,7 @@
 
 
 <!-- 2021 Skyline -->
-<img src="https://user-images.githubusercontent.com/36594527/208378907-aa4a028f-5546-4ac4-9245-140a80bec975.gif" width="700">
+<img src="https://cdn.discordapp.com/attachments/1120599612747698258/1123087130856525995/SPOILER_bannier-100.jpg" width="700">
 
 <img src="https://github-readme-stats.vercel.app/api?username=YusuCalypso&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
 
