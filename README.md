@@ -3,8 +3,7 @@
 **MishManners/MishManners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 
 <!-- <img src=""> this is another way you can add in images and allows you to scale them -->
-
-![mishmannersgamingroomgif]([https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif](https://media.discordapp.net/attachments/1120599612747698258/1123087130856525995/SPOILER_bannier-100.jpg?width=750&height=300))
+https://media.discordapp.net/attachments/1120599612747698258/1123087130856525995/SPOILER_bannier-100.jpg?width=750&height=300
 
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator :microphone:. You'll often catch me at an event, speaking on stage, or on a live stream!
 
