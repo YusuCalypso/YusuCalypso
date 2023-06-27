@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Yusu</h1>
+<h1 align="center">Yo 👋 Je suis Yusu un développeur cool!</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusucalypso" alt="yusucalypso" /></a> </p>
 
