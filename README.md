@@ -1,4 +1,4 @@
-## 👋 Hey everyone, I'm Yusu 👋
+##
 <!--
 
 
