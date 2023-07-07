@@ -38,7 +38,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/Rachit-Pal/Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit-pal&theme=darkhub&no-frame=true" alt="Rachit-Pal"/></a>
+  <a href="https://github.com/YusuCalypso"><img src="https://github-profile-trophy.vercel.app/?username=YusuCalypso&theme=darkhub&no-frame=true" alt="YusuCalypso"/></a>
 </p>
 
 
