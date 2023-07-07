@@ -1,11 +1,10 @@
 <!--- P R O F I L E   V I E W S   C O U N T E R S --->
 
+<img align="right" src="https://komarev.com/ghpvc/?username=YusuCalypso&label=Profile%20views&color=0e75b6&style=flat"><br>
+
 
 <!--- P R O F I L E   B A N N E R --->
 
-<h1 align="center">
-  <img src="https://telegra.ph/file/c3211f5624cd36cbdae9c.jpg">
-</h1>
 
 
 <!--- A N I M A T E D   T E X T --->
