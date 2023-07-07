@@ -34,7 +34,7 @@
 
 <!--- G I T H U B   T R O P H Y --->
 
-<h2 align="center">Github Trophy and Contribution Graph <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-01.gif" width="30px"></h2>
+<h2 align="center">Trophée Github et Contributions <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-01.gif" width="30px"></h2>
 <br>
 
 <p align="center">
