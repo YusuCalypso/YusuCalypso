@@ -43,7 +43,7 @@
 
 <!--- L A N G U A G E - F R A M E W O R K S -  T O O L S --->
 
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<h2 align="center">🔥 Langues-Frameworks-Tools 🔥</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -59,7 +59,7 @@
 
 <!--- G I T H U B   P R O F I L E   S T A T S --->
 
-<h2 align="center">〽️ STATISTICS 〽️</h2>
+<h2 align="center">〽️ STATISTIQUE 〽️</h2>
 <br>
 <p align=center>
   <div align=center>
